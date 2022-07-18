@@ -3,4 +3,4 @@
 ## This repo is used to learn Git and GitHub.
 
 https://amigoscode.com/p/git-github
-![Appolin Fotso - Copy](https://user-images.githubusercontent.com/108607571/179521077-d6896cca-b207-4a53-a1f0-fe6a544d5fd6.png)
+![Screenshot 2021-02-21 at 23 09 46](https://user-images.githubusercontent.com/108607571/179523691-cb4e5442-8a09-401e-a17c-ee2e2d367539.png)
